@@ -5,7 +5,7 @@
 		"nature_bien": "Carrosserie",
 		"montant": "1000000",
 		"nom": "Krayne",
-	  	"prenom": "achraf"
+	  	"prenom": "achraf",
 		"created_at": "03-03-2020",
 		"statut": "Accepté client",
 		"code_satus": "P025"
@@ -15,7 +15,7 @@
 		"nature_bien": "Carrosserie",
 		"montant": "1000000",
 		"nom": "Krayne",
-	  	"prenom": "achraf"
+	  	"prenom": "achraf",
 		"created_at": "03-03-2020",
 		"statut": "Refusé",
 		"code_satus": "PROR"
@@ -25,7 +25,7 @@
 		"nature_bien": "Carrosserie",
 		"montant": "1000000",
 		"nom": "Krayne",
-	  	"prenom": "achraf"
+	  	"prenom": "achraf",
 		"created_at": "03-03-2020",
 		"statut": "Dérogation refusé ML",
 		"code_satus": "PRDR"
@@ -35,7 +35,7 @@
 		"nature_bien": "Carrosserie",
 		"montant": "1000000",
 		"nom": "Krayne",
-	  	"prenom": "achraf"
+	  	"prenom": "achraf",
 		"created_at": "03-03-2020",
 		"statut": "En etude",
 		"code_satus": "PROE"
@@ -45,7 +45,7 @@
 		"nature_bien": "Carrosserie",
 		"montant": "1000000",
 		"nom": "Krayne",
-	  	"prenom": "achraf"
+	  	"prenom": "achraf",
 		"created_at": "03-03-2020",
 		"statut": "En Dérogation",
 		"code_satus": "PRDR"
@@ -55,7 +55,7 @@
 		"nature_bien": "Carrosserie",
 		"montant": "1000000",
 		"nom": "Krayne",
-	  	"prenom": "achraf"
+	  	"prenom": "achraf",
 		"created_at": "03-03-2020",
 		"statut": "Dérogation accepté ML",
 		"code_satus": "PRDA"
@@ -65,7 +65,7 @@
 		"nature_bien": "Carrosserie",
 		"montant": "1000000",
 		"nom": "Krayne",
-	  	"prenom": "achraf"
+	  	"prenom": "achraf",
 		"created_at": "03-03-2020",
 		"statut": "Remis au client",
 		"code_satus": "PROP"
