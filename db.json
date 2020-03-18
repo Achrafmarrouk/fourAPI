@@ -1,0 +1,60 @@
+{
+  "propositions": [
+  {
+		"id": "1",
+		"nature_bien": "Carrosserie",
+		"montant": "1000000",
+		"client": "Krayne",
+		"created_at": "03-03-2020",
+		"statut": "En cours"
+	},
+	{
+		"id": "2",
+		"nature_bien": "Carrosserie",
+		"montant": "1000000",
+		"client": "Krayne",
+		"created_at": "03-03-2020",
+		"statut": "En cours"
+	},
+	{
+		"id": "3",
+		"nature_bien": "Carrosserie",
+		"montant": "1000000",
+		"client": "Krayne",
+		"created_at": "03-03-2020",
+		"statut": "En cours"
+	},
+	{
+		"id": "4",
+		"nature_bien": "Carrosserie",
+		"montant": "1000000",
+		"client": "Krayne",
+		"created_at": "03-03-2020",
+		"statut": "En cours"
+	},
+	{
+		"id": "5",
+		"nature_bien": "Carrosserie",
+		"montant": "1000000",
+		"client": "Krayne",
+		"created_at": "03-03-2020",
+		"statut": "En cours"
+	},
+	{
+		"id": "6",
+		"nature_bien": "Carrosserie",
+		"montant": "1000000",
+		"client": "Krayne",
+		"created_at": "03-03-2020",
+		"statut": "En cours"
+	},
+	{
+		"id": "7",
+		"nature_bien": "Carrosserie",
+		"montant": "1000000",
+		"client": "Krayne",
+		"created_at": "03-03-2020",
+		"statut": "En cours"
+	}
+  ]
+}
