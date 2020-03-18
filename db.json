@@ -1,7 +1,7 @@
 {
   "propositions": [
   {
-		"num_prop": "1",
+		"num_proposition": "1",
 		"nature_bien": "Carrosserie",
 		"montant": "1000000",
 		"client": "Krayne",
@@ -9,7 +9,7 @@
 		"statut": "En cours"
 	},
 	{
-		"id": "2",
+		"num_proposition": "2",
 		"nature_bien": "Carrosserie",
 		"montant": "1000000",
 		"client": "Krayne",
@@ -17,7 +17,7 @@
 		"statut": "En cours"
 	},
 	{
-		"id": "3",
+		"num_proposition": "3",
 		"nature_bien": "Carrosserie",
 		"montant": "1000000",
 		"client": "Krayne",
@@ -25,7 +25,7 @@
 		"statut": "En cours"
 	},
 	{
-		"id": "4",
+		"num_proposition": "4",
 		"nature_bien": "Carrosserie",
 		"montant": "1000000",
 		"client": "Krayne",
@@ -33,7 +33,7 @@
 		"statut": "En cours"
 	},
 	{
-		"id": "5",
+		"num_proposition": "5",
 		"nature_bien": "Carrosserie",
 		"montant": "1000000",
 		"client": "Krayne",
@@ -41,7 +41,7 @@
 		"statut": "En cours"
 	},
 	{
-		"id": "6",
+		"num_proposition": "6",
 		"nature_bien": "Carrosserie",
 		"montant": "1000000",
 		"client": "Krayne",
@@ -49,7 +49,7 @@
 		"statut": "En cours"
 	},
 	{
-		"id": "7",
+		"num_proposition": "7",
 		"nature_bien": "Carrosserie",
 		"montant": "1000000",
 		"client": "Krayne",
