@@ -1,7 +1,7 @@
 {
   "propositions": [
   {
-		"id": "1",
+		"num_prop": "1",
 		"nature_bien": "Carrosserie",
 		"montant": "1000000",
 		"client": "Krayne",
