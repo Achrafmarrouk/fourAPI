@@ -101,6 +101,108 @@
       "typePerson": ""
     } ],
     "pageCount": "1"
+    },
+     { 
+    "PropositionTableItem" :[ 
+      {
+      "PropositionId": "1",
+      "nature_bien": "Carrosserie",
+      "montantHT": "1000000",
+      "nom": "Krayne",
+      "prenom": "achraf",
+      "raisonsociale": "",
+      "telephone": "",
+      "dateModification": "",
+      "dateCreation": "03-03-2020",
+      "statutLabel": "Accepté client",
+      "statutLabelCode": "P025",
+      "typePerson": ""
+    },
+     {
+      "PropositionId": "2",
+      "natureBien": "Carrosserie",
+      "montantHT": "1000000",
+      "nom": "Krayne",
+      "prenom": "achraf",
+      "raisonsociale": "",
+      "telephone": "",
+      "dateModification": "",
+      "dateCreation": "03-03-2020",
+      "statutLabel": "Accepté client",
+      "statutLabelCode": "P025",
+      "typePerson": ""
+    },
+     {
+      "PropositionId": "3",
+      "nature_bien": "Carrosserie",
+      "montantHT": "1000000",
+      "nom": "Krayne",
+      "prenom": "achraf",
+      "raisonsociale": "",
+      "telephone": "",
+      "dateModification": "",
+      "dateCreation": "03-03-2020",
+      "statutLabel": "Accepté client",
+      "statutLabelCode": "P025",
+      "typePerson": ""
+    },
+     {
+      "num_proposition": "4",
+      "nature_bien": "Carrosserie",
+      "montantHT": "1000000",
+      "nom": "Krayne",
+      "prenom": "achraf",
+      "raisonsociale": "",
+      "telephone": "",
+      "dateModification": "",
+      "dateCreation": "03-03-2020",
+      "statutLabel": "Accepté client",
+      "statutLabelCode": "P025",
+      "typePerson": ""
+    },
+     {
+      "num_proposition": "5",
+      "nature_bien": "Carrosserie",
+      "montantHT": "1000000",
+      "nom": "Krayne",
+      "prenom": "achraf",
+      "raisonsociale": "",
+      "telephone": "",
+      "dateModification": "",
+      "dateCreation": "03-03-2020",
+      "statutLabel": "Accepté client",
+      "statutLabelCode": "P025",
+      "typePerson": ""
+    },
+     {
+      "num_proposition": "6",
+      "nature_bien": "Carrosserie",
+      "montantHT": "1000000",
+      "nom": "Krayne",
+      "prenom": "achraf",
+      "raisonsociale": "",
+      "telephone": "",
+      "dateModification": "",
+      "dateCreation": "03-03-2020",
+      "statutLabel": "Accepté client",
+      "statutLabelCode": "P025",
+      "typePerson": ""
+    },
+     {
+      "num_proposition": "7",
+      "nature_bien": "Carrosserie",
+      "montantHT": "1000000",
+      "nom": "Krayne",
+      "prenom": "achraf",
+      "raisonsociale": "",
+      "telephone": "",
+      "dateModification": "",
+      "dateCreation": "03-03-2020",
+      "statutLabel": "Accepté client",
+      "statutLabelCode": "P025",
+      "typePerson": ""
+    } ],
+    "pageCount": "1"
     }
   ]
 }
