@@ -1,6 +1,7 @@
 {
-  "PropositionTableItem": [
+  "PropositionTableItem": {
     
+   "PropositionTableItem": [
     {
       "PropositionId": "1",
       "nature_bien": "Carrosserie",
@@ -99,6 +100,7 @@
       "statutLabelCode": "P025",
       "typePerson": ""
     }
-  ],
+    ]
+  },
   "pageCount": ""
 }
