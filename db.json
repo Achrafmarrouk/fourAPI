@@ -1,7 +1,6 @@
 {
-  "Proposition": {    
-   "PropositionTableItem": [
-    {
+  "propositions": [
+   { "PropositionTableItem":  {
       "PropositionId": "1",
       "nature_bien": "Carrosserie",
       "montantHT": "1000000",
@@ -11,11 +10,11 @@
       "telephone": "",
       "dateModification": "",
       "dateCreation": "03-03-2020",
-      "statutLabel": "Accepté client",
+      "statutLabel": "Accepté client",
       "statutLabelCode": "P025",
       "typePerson": ""
-    },
-    {
+    }},
+      { "PropositionTableItem":{
       "PropositionId": "2",
       "natureBien": "Carrosserie",
       "montantHT": "1000000",
@@ -25,11 +24,11 @@
       "telephone": "",
       "dateModification": "",
       "dateCreation": "03-03-2020",
-      "statutLabel": "Accepté client",
+      "statutLabel": "Accepté client",
       "statutLabelCode": "P025",
       "typePerson": ""
-    },
-    {
+    }},
+     { "PropositionTableItem":{
       "PropositionId": "3",
       "nature_bien": "Carrosserie",
       "montantHT": "1000000",
@@ -39,11 +38,11 @@
       "telephone": "",
       "dateModification": "",
       "dateCreation": "03-03-2020",
-      "statutLabel": "Accepté client",
+      "statutLabel": "Accepté client",
       "statutLabelCode": "P025",
       "typePerson": ""
-    },
-    {
+    }},
+     { "PropositionTableItem":{
       "num_proposition": "4",
       "nature_bien": "Carrosserie",
       "montantHT": "1000000",
@@ -53,11 +52,11 @@
       "telephone": "",
       "dateModification": "",
       "dateCreation": "03-03-2020",
-      "statutLabel": "Accepté client",
+      "statutLabel": "Accepté client",
       "statutLabelCode": "P025",
       "typePerson": ""
-    },
-    {
+    }},
+     { "PropositionTableItem":{
       "num_proposition": "5",
       "nature_bien": "Carrosserie",
       "montantHT": "1000000",
@@ -67,11 +66,11 @@
       "telephone": "",
       "dateModification": "",
       "dateCreation": "03-03-2020",
-      "statutLabel": "Accepté client",
+      "statutLabel": "Accepté client",
       "statutLabelCode": "P025",
       "typePerson": ""
-    },
-    {
+    }},
+     { "PropositionTableItem":{
       "num_proposition": "6",
       "nature_bien": "Carrosserie",
       "montantHT": "1000000",
@@ -81,11 +80,11 @@
       "telephone": "",
       "dateModification": "",
       "dateCreation": "03-03-2020",
-      "statutLabel": "Accepté client",
+      "statutLabel": "Accepté client",
       "statutLabelCode": "P025",
       "typePerson": ""
-    },
-    {
+    }},
+     { "PropositionTableItem":{
       "num_proposition": "7",
       "nature_bien": "Carrosserie",
       "montantHT": "1000000",
@@ -95,11 +94,9 @@
       "telephone": "",
       "dateModification": "",
       "dateCreation": "03-03-2020",
-      "statutLabel": "Accepté client",
+      "statutLabel": "Accepté client",
       "statutLabelCode": "P025",
       "typePerson": ""
-    }
-    ]
-  },
-  "pageCount": ""
+    }}
+  ]
 }
