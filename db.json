@@ -1,175 +1,74 @@
 {
-   "propositionsA": [
-  {
-		"num_proposition": "1",
-		"nature_bien": "Carrosserie",
-		"montant": "1000000",
-		"nom": "Krayne",
-	  	"prenom": "achraf"
-		"created_at": "03-03-2020",
-		"statut": "Accepté client",
-		"code_satus": "P025"
-	},
-	{
-		"num_proposition": "2",
-		"nature_bien": "Carrosserie",
-		"montant": "1000000",
-		"nom": "Krayne",
-	  	"prenom": "achraf"
-		"created_at": "03-03-2020",
-		"statut": "Refusé",
-		"code_satus": "PROR"
-	},
-	{
-		"num_proposition": "3",
-		"nature_bien": "Carrosserie",
-		"montant": "1000000",
-		"nom": "Krayne",
-	  	"prenom": "achraf"
-		"created_at": "03-03-2020",
-		"statut": "Dérogation refusé ML",
-		"code_satus": "PRDR"
-	},
-	{
-		"num_proposition": "4",
-		"nature_bien": "Carrosserie",
-		"montant": "1000000",
-		"nom": "Krayne",
-	  	"prenom": "achraf"
-		"created_at": "03-03-2020",
-		"statut": "En etude",
-		"code_satus": "PROE"
-	},
-	{
-		"num_proposition": "5",
-		"nature_bien": "Carrosserie",
-		"montant": "1000000",
-		"nom": "Krayne",
-	  	"prenom": "achraf"
-		"created_at": "03-03-2020",
-		"statut": "En Dérogation",
-		"code_satus": "PRDR"
-	},
-	{
-		"num_proposition": "6",
-		"nature_bien": "Carrosserie",
-		"montant": "1000000",
-		"nom": "Krayne",
-	  	"prenom": "achraf"
-		"created_at": "03-03-2020",
-		"statut": "Dérogation accepté ML",
-		"code_satus": "PRDA"
-	},
-	{
-		"num_proposition": "7",
-		"nature_bien": "Carrosserie",
-		"montant": "1000000",
-		"nom": "Krayne",
-	  	"prenom": "achraf"
-		"created_at": "03-03-2020",
-		"statut": "Remis au client",
-		"code_satus": "PROP"
-	}
-	  
-  ],
   "propositions": [
     {
-      "PropositionId": "1",
+      "num_proposition": "1",
       "nature_bien": "Carrosserie",
-      "montantHT": "1000000",
+      "montant": "1000000",
       "nom": "Krayne",
       "prenom": "achraf",
-      "raisonsociale": "",
-      "telephone": "",
-      "dateModification": "",
-      "dateCreation": "03-03-2020",
-      "statutLabel": "Accepté client",
-      "statutLabelCode": "P025",
-      "typePerson": ""
+      "created_at": "03-03-2020",
+      "statut": "Accepté client",
+      "code_satus": "P025"
     },
     {
-      "PropositionId": "2",
-      "natureBien": "Carrosserie",
-      "montantHT": "1000000",
+      "num_proposition": "2",
+      "nature_bien": "Carrosserie",
+      "montant": "1000000",
       "nom": "Krayne",
       "prenom": "achraf",
-      "raisonsociale": "",
-      "telephone": "",
-      "dateModification": "",
-      "dateCreation": "03-03-2020",
-      "statutLabel": "Accepté client",
-      "statutLabelCode": "P025",
-      "typePerson": ""
+      "created_at": "03-03-2020",
+      "statut": "Refusé",
+      "code_satus": "PROR"
     },
     {
-      "PropositionId": "3",
+      "num_proposition": "3",
       "nature_bien": "Carrosserie",
-      "montantHT": "1000000",
+      "montant": "1000000",
       "nom": "Krayne",
       "prenom": "achraf",
-      "raisonsociale": "",
-      "telephone": "",
-      "dateModification": "",
-      "dateCreation": "03-03-2020",
-      "statutLabel": "Accepté client",
-      "statutLabelCode": "P025",
-      "typePerson": ""
+      "created_at": "03-03-2020",
+      "statut": "Dérogation refusé ML",
+      "code_satus": "PRDR"
     },
     {
       "num_proposition": "4",
       "nature_bien": "Carrosserie",
-      "montantHT": "1000000",
+      "montant": "1000000",
       "nom": "Krayne",
       "prenom": "achraf",
-      "raisonsociale": "",
-      "telephone": "",
-      "dateModification": "",
-      "dateCreation": "03-03-2020",
-      "statutLabel": "Accepté client",
-      "statutLabelCode": "P025",
-      "typePerson": ""
+      "created_at": "03-03-2020",
+      "statut": "En etude",
+      "code_satus": "PROE"
     },
     {
       "num_proposition": "5",
       "nature_bien": "Carrosserie",
-      "montantHT": "1000000",
+      "montant": "1000000",
       "nom": "Krayne",
       "prenom": "achraf",
-      "raisonsociale": "",
-      "telephone": "",
-      "dateModification": "",
-      "dateCreation": "03-03-2020",
-      "statutLabel": "Accepté client",
-      "statutLabelCode": "P025",
-      "typePerson": ""
+      "created_at": "03-03-2020",
+      "statut": "En Dérogation",
+      "code_satus": "PRDR"
     },
     {
       "num_proposition": "6",
       "nature_bien": "Carrosserie",
-      "montantHT": "1000000",
+      "montant": "1000000",
       "nom": "Krayne",
       "prenom": "achraf",
-      "raisonsociale": "",
-      "telephone": "",
-      "dateModification": "",
-      "dateCreation": "03-03-2020",
-      "statutLabel": "Accepté client",
-      "statutLabelCode": "P025",
-      "typePerson": ""
+      "created_at": "03-03-2020",
+      "statut": "Dérogation accepté ML",
+      "code_satus": "PRDA"
     },
     {
       "num_proposition": "7",
       "nature_bien": "Carrosserie",
-      "montantHT": "1000000",
+      "montant": "1000000",
       "nom": "Krayne",
       "prenom": "achraf",
-      "raisonsociale": "",
-      "telephone": "",
-      "dateModification": "",
-      "dateCreation": "03-03-2020",
-      "statutLabel": "Accepté client",
-      "statutLabelCode": "P025",
-      "typePerson": ""
+      "created_at": "03-03-2020",
+      "statut": "Remis au client",
+      "code_satus": "PROP"
     }
   ]
 }
