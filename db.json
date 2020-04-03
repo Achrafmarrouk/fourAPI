@@ -43,7 +43,7 @@
       "typePerson": ""
     },
     {
-      "num_proposition": "4",
+      "PropositionId": "4",
       "natureBien": "Carrosserie",
       "montantHT": "1000000",
       "nom": "MARROUK",
@@ -57,7 +57,7 @@
       "typePerson": ""
     },
     {
-      "num_proposition": "5",
+      "PropositionId": "5",
       "natureBien": "Carrosserie",
       "montantHT": "1000000",
       "nom": "MARROUK",
@@ -71,7 +71,7 @@
       "typePerson": ""
     },
     {
-      "num_proposition": "6",
+      "PropositionId": "6",
       "natureBien": "Carrosserie",
       "montantHT": "1000000",
       "nom": "MARROUK",
@@ -85,7 +85,7 @@
       "typePerson": ""
     },
     {
-      "num_proposition": "7",
+      "PropositionId": "7",
       "natureBien": "Carrosserie",
       "montantHT": "1000000",
       "nom": "MARROUK",
@@ -99,7 +99,7 @@
       "typePerson": ""
     },
 	  {
-      "num_proposition": "7",
+      "PropositionId": "7",
       "natureBien": "Carrosserie",
       "montantHT": "1000000",
       "nom": "MARROUK",
