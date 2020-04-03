@@ -39,7 +39,7 @@
       "dateModification": "",
       "dateCreation": "03-03-2020",
       "statutLabel": "Dérogation refusé ML",
-      "statutLabelCode": "PRDR",
+      "statutCode": "PRDR",
       "typePerson": ""
     },
     {
@@ -53,7 +53,7 @@
       "dateModification": "",
       "dateCreation": "03-03-2020",
       "statutLabel": "En étude",
-      "statutLabelCode": "PROE",
+      "statutCode": "PROE",
       "typePerson": ""
     },
     {
@@ -67,7 +67,7 @@
       "dateModification": "",
       "dateCreation": "03-03-2020",
       "statutLabel": "En Dérogation",
-      "statutLabelCode": "PROD",
+      "statutCode": "PROD",
       "typePerson": ""
     },
     {
@@ -81,7 +81,7 @@
       "dateModification": "",
       "dateCreation": "03-03-2020",
       "statutLabel": "Dérogation accepté ML",
-      "statutLabelCode": "PRDA",
+      "statutCode": "PRDA",
       "typePerson": ""
     },
     {
@@ -95,7 +95,7 @@
       "dateModification": "",
       "dateCreation": "03-03-2020",
       "statutLabel": "Remis au client",
-      "statutLabelCode": "PROP",
+      "statutCode": "PROP",
       "typePerson": ""
     },
 	  {
@@ -109,7 +109,7 @@
       "dateModification": "",
       "dateCreation": "03-03-2020",
       "statutLabel": "En etude",
-      "statutLabelCode": "P010",
+      "statutCode": "P010",
       "typePerson": ""
     }
   ]
