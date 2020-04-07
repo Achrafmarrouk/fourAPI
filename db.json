@@ -98,7 +98,7 @@
       "statutCode": "PROP",
       "typePerson": ""
     },
-	  {
+    {
       "PropositionId": "7",
       "natureBien": "Carrosserie",
       "montantHT": "1000000",
@@ -113,12 +113,42 @@
       "typePerson": ""
     }
   ],
-   "PropositionDetails": [
-		{
-		"reference" : "P000045644",
-		"status": "P025",
-		"dateCreation": "06/03/2020",
-		"vendeur": "SKANDER"
-		}
+  "PropositionDetails": [
+    {
+      "reference": "P000045644",
+      "status": "P025",
+      "dateCreation": "06/03/2020",
+      "vendeur": "SKANDER",
+      "tierCustomer": {
+        "id": "0000005206",
+        "rs": "SOS NETTOYAGE DEPANNAGE DISTRIBUTION ",
+        "eid": "0000005206",
+        "prenom": null,
+        "codeTypeClient": "1",
+        "typeClient": "PERSONNE MORALE",
+        "ice": "001530405000095",
+        "rc": "35911",
+        "codeFJ": "SARL",
+        "fj": "S.A.R.L.",
+        "nbrAlertes": 0,
+        "nom": "SOS NDD",
+        "dateCreation": "14-09-1977",
+        "adresse": "296, BOULEVARD MOHAMED V  CASABLANCA ",
+        "mobile": "+212661162030",
+        "fixe": "05 22 73 80 73",
+        "tel": "05 22 75 56 93",
+        "email": "hamidamgoud@sosndd.com",
+        "contratLoyer": "10961833,33",
+        "contratNbr": 7,
+        "capital": "20000000",
+        "chiffreAffaire": "654212",
+        "anneeChiffreAffaire": "2019",
+        "impayesNbr": 0,
+        "totalImpayes": "200732,75",
+        "codeActivite": "D160",
+        "activite": "AUTRES SER",
+        "cin": "001530405000095"
+      }
+    }
   ]
 }
