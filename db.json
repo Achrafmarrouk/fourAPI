@@ -152,7 +152,7 @@
         "returnCode": "0000"
       },
       "goods": {
-        "goodNature": "MATERIEL DE PRODUCTION",
+        "goodNature": "VEHICULE DE TOURISME",
         "goodsList": [
           {
             "id": 0,
@@ -161,7 +161,8 @@
             "montantTTC": 762385.2,
             "montantFeeHT": 0,
             "montantFeeTTC": 0,
-            "qte": 1
+            "qte": 1,
+            "nature": "VEHICULE DE TOURISME"
           },
           {
             "id": 0,
@@ -171,6 +172,7 @@
             "montantFeeHT": 14624,
             "montantFeeTTC": 17548.8,
             "qte": 1
+            "nature": "VEHICULE DE TOURISME"
           }
         ],
         "totalHT": 715367,
