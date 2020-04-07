@@ -147,7 +147,36 @@
         "totalImpayes": "200732,75",
         "codeActivite": "D160",
         "activite": "AUTRES SER",
-        "cin": "001530405000095"
+        "cin": "001530405000095",
+        "returnMessage": "",
+        "returnCode": "0000"
+      },
+      "goods": {
+        "goodNature": "MATERIEL DE PRODUCTION",
+        "goodsList": [
+          {
+            "id": 0,
+            "designation": "Ford Focus 180 BVA",
+            "montantHT": 635321,
+            "montantTTC": 762385.2,
+            "montantFeeHT": 0,
+            "montantFeeTTC": 0,
+            "qte": 1
+          },
+          {
+            "id": 0,
+            "designation": "Ford Focus 180 BVA",
+            "montantHT": 65422,
+            "montantTTC": 78506.4,
+            "montantFeeHT": 14624,
+            "montantFeeTTC": 17548.8,
+            "qte": 1
+          }
+        ],
+        "totalHT": 715367,
+        "totalTTC": 858440.4,
+        "returnMessage": null,
+        "returnCode": null
       }
     }
   ]
