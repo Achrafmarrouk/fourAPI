@@ -179,7 +179,43 @@
         "totalTTC": 858440.4,
         "returnMessage": null,
         "returnCode": null
-      }
+      },
+      "simulations": [
+        {
+          "id": 0,
+          "numeroProposition": null,
+          "dureeMois": 48,
+          "plm": 44000,
+          "codeCategorieContrat": "CMIA",
+          "codeMethodeCalcul": "6",
+          "montantFinancement": 220000,
+          "montantVR": 2200,
+          "montantEcheanceHT": 4293.01,
+          "montantEcheanceTTC": 5151.612,
+          "tauxVR": 0,
+          "codeTaxe": "T003",
+          "numeroSimulation": "160738",
+          "isFlag": true,
+          "paliers": null
+        },
+        {
+          "id": 1,
+          "numeroProposition": null,
+          "dureeMois": 60,
+          "plm": 0,
+          "codeCategorieContrat": "CMIA",
+          "codeMethodeCalcul": "6",
+          "montantFinancement": 220000,
+          "montantVR": 2200,
+          "montantEcheanceHT": 4350.82,
+          "montantEcheanceTTC": 5220.984,
+          "tauxVR": 0,
+          "codeTaxe": "T003",
+          "numeroSimulation": "160739",
+          "isFlag": false,
+          "paliers": null
+        }
+      ]
     }
   ]
 }
